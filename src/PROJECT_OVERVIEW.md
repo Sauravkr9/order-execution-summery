@@ -173,7 +173,6 @@ All tests should pass
 - **[TESTING.md](backend/TESTING.md)** - Comprehensive testing guide
 
 ### Assignment
-- **[VIDEO_DEMO_SCRIPT.md](backend/VIDEO_DEMO_SCRIPT.md)** - Recording guide
 - **[SUBMISSION_CHECKLIST.md](backend/SUBMISSION_CHECKLIST.md)** - Verify completeness
 
 ## Key Features Implementation
@@ -239,18 +238,6 @@ All tests should pass
 **Documentation** - Comprehensive guides  
 **Tests** - Postman collection + scripts  
 **Deployment** - Docker Compose ready  
-
-## Demo Video
-
-Follow **[VIDEO_DEMO_SCRIPT.md](backend/VIDEO_DEMO_SCRIPT.md)** to record:
-1. Architecture explanation
-2. Code walkthrough  
-3. Live API demo
-4. WebSocket real-time updates
-5. Postman test execution
-6. Database verification
-
-Target: 5-7 minutes
 
 ## Future Enhancements
 
