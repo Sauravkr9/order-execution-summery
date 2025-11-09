@@ -281,10 +281,6 @@ All tests should pass
 
 See **[SETUP.md](backend/SETUP.md)** for detailed troubleshooting.
 
-## License
-
-MIT
-
 ## Contact
 
 For questions about this implementation:
